@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-03T19:31:18 BST" name="Default suite" finished-at="2023-07-03T19:31:33 BST" duration-ms="15434">
+    <groups>
+    </groups>
+    <test started-at="2023-07-03T19:31:18 BST" name="Default test" finished-at="2023-07-03T19:31:33 BST" duration-ms="15434">
+      <class name="test.program1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.program1@6aeb35e6]" started-at="2023-07-03T19:31:18 BST" name="setUp" finished-at="2023-07-03T19:31:32 BST" duration-ms="14413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:test.program1@6aeb35e6]" started-at="2023-07-03T19:31:32 BST" name="test" finished-at="2023-07-03T19:31:32 BST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.program1@6aeb35e6]" started-at="2023-07-03T19:31:32 BST" name="teardown" finished-at="2023-07-03T19:31:33 BST" duration-ms="772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.program1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
